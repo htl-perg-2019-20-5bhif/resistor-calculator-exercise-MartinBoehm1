@@ -1,0 +1,13 @@
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\bin\Debug\netstandard2.0\ResistorCalculator.deps.json
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\bin\Debug\netstandard2.0\ResistorCalculator.dll
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\bin\Debug\netstandard2.0\ref\ResistorCalculator.dll
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\bin\Debug\netstandard2.0\ResistorCalculator.pdb
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ResistorCalculator.csprojAssemblyReference.cache
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ResistorCalculator.AssemblyInfoInputs.cache
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ResistorCalculator.AssemblyInfo.cs
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ResistorCalculator.dll
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ref\ResistorCalculator.dll
+C:\Users\Theresa KONSTANZE ^^\Documents\Schule\C#\ResistorCalculator\ResistorCalculator\ResistorCalculator\obj\Debug\netstandard2.0\ResistorCalculator.pdb
